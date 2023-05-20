@@ -1,2 +1,2 @@
-# learning-git
-this repo was used to learn git from amigoscode
+# Git and Github course
+##This repo was used to learn git from amigoscode
